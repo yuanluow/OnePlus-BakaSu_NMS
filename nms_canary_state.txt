@@ -1,0 +1,8 @@
+KernelSU-Next/KernelSU-Next dev 32e25d58fc1a187e1abe7278904c31571235fc83 (KSUN root impl)
+ShirkNeko/SukiSU-Ultra main 1439545f12bffe0263690ba862139b70ee5f20cf (SukiSU root impl)
+Baka-SU/BakaSU main 7b65bde0710b5e7c6f755545cb15a4abd417f3a8 (BakaSU root impl)
+WildKernels/kernel_patches main 70c394f16d82b0f85a4f07617630d82dde6d203c (hooks + susfs, UNPINNED)
+Bouteillepleine/kernel_patches main 5cc5f00cfcb881007cd674a18b1b4496196f1b9b (our _ghost/_pathhide/_hook)
+Bouteillepleine/NoMount-Suite main 2f181a60eccba64ae787b2c11d3374ac4aec753e (Prism engine src)
+vc-teahouse/Baseband-guard main 028ff7fd509e2104596da7cc1ef8e6ce2a0c9082 (baseband guard)
+simonpunk/susfs4ksu gki-android16-6.12 9b0b13f069673b9b07b713a5c66977de4d62b175 (susfs kernel patch, UNPINNED)
