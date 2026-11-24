@@ -1,4 +1,4 @@
-Baka-SU/BakaSU main de80463b1a177d149ca90d4c621ac22f791c22d5 (BakaSU root impl)
+Baka-SU/BakaSU main 57b2db6076f439cfd489f14576444e8f0f2f0a25 (BakaSU root impl)
 Bouteillepleine/NoMount-Suite main 295035bc03771fddf8eccf8a55f4462e4e706935 (Prism engine src)
 Bouteillepleine/kernel_patches main efc078ab29fa342888c78029f17ad6d01f869252 (our _ghost/_pathhide/_hook)
 KernelSU-Next/KernelSU-Next dev 896f45a78c0806cfd585c4e14e6989f867b143d7 (KSUN root impl)
